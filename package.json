@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@jsjoeio/streak-counter": "^0.0.4"
+  },
+  "name": "streak-counter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/clintonphilathong/streak-counter.git",
+  "author": "Clinton Philathong <cphilathong1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
